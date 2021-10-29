@@ -50,10 +50,6 @@
 
 <br/>
 
----
-
----
-
 [website]: https://www.funtechsy.com/
 [instagram]: https://www.instagram.com/alfansyahgg
 
