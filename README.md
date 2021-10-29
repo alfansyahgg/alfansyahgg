@@ -15,11 +15,9 @@
 
 ### Contact with me 📝
 
+ <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alfansyahgg/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/AlfansyahNP/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/alfansyahgg)
-
-<br />
-
----
 
 ### Languages and Tools 🛠 
 
@@ -33,12 +31,7 @@
 
 <br/>
 
----
-
-<br/>
-
   <h2 align="center"> Github Statistics 📈 </h2>
-  <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
   
   <div align="center"> 
 <!--      <a href="">
@@ -48,5 +41,4 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfansyahgg&theme=react&line_height=40&hide=css"/>
     </a>
 </div
-
 <br/>
