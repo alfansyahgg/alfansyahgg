@@ -29,10 +29,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
+ <h2 align="center"> Github Statistics 📈 </h2>
   <div align="center"> 
 <!--      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alfansyahgg&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
@@ -41,4 +38,3 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfansyahgg&theme=react&line_height=40&hide=css"/>
     </a>
 </div
-<br/>
