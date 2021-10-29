@@ -40,6 +40,7 @@
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
+  <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 <!--      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alfansyahgg&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a> -->
@@ -49,9 +50,3 @@
 </div
 
 <br/>
-
-[website]: https://www.funtechsy.com/
-[instagram]: https://www.instagram.com/alfansyahgg
-
-
-----
