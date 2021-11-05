@@ -6,8 +6,6 @@
 
 - 👨‍💻 I’m currently learning on web and mobile development technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play soccer and badminton 🎱.
-
 ---
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
